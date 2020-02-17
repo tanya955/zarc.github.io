@@ -1,9 +1,5 @@
-## Welcome to my Pages
-
-You can use the [editor on GitHub](https://github.com/tanya955/zarc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## *Welcome* to my Pages!
+现在大家可以访问 以查看我的博客
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
